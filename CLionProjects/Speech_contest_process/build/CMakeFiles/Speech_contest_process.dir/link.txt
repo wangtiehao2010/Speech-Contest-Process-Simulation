@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Speech_contest_process.dir/Speech_contest_process_management_system.cpp.o CMakeFiles/Speech_contest_process.dir/SpeechManager.cpp.o -o Speech_contest_process 

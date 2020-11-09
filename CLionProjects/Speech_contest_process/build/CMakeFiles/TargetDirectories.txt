@@ -1,0 +1,3 @@
+/home/david/CLionProjects/Speech contest process/build/CMakeFiles/rebuild_cache.dir
+/home/david/CLionProjects/Speech contest process/build/CMakeFiles/Speech_contest_process.dir
+/home/david/CLionProjects/Speech contest process/build/CMakeFiles/edit_cache.dir
